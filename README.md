@@ -34,7 +34,7 @@
 - Details Coming Soon:
 - The App is currently Under Constrction
 ---
-### `The Complete Web Development Practice Space` Repository Directory Looks Like This.
+### The `"The Complete Web Development Practice Space"` Repository Directory Looks Like This.
 - ### `README.md`
 - ### `COS216`
   - #### `PA1`:
@@ -124,10 +124,7 @@
         - validate-signup.php
     - ReadMe.md
   - #### `PA5`
-    - The Code for PA5 is In A `Separate` Repository.
-    - Repository Name: `Ionic` + `Angular` `Native Mobile Application` (Will Be Created Soon or it Will Be Available by the time you see this).
-    - This is to make sure `this` Repo is `neat`, `manageabe` and `easy` to work with since the Files from the `Ionic Angular Native App` will be a lot. But the app will still use the same `API` and `Databases`, The `Client Side` will also be similar to that of `PA4`, And most of the Trivial `functionalities` will be implemented in the `Native app` and some `more` will bbe added.
-    - Visit PA5 Repository Here: [Ionic_Angular_Native_Mobile_Application](https://github.com/TebogoYungMercykay/Ionic_Angular_Native_Mobile_Application.git)
+    - The Code for PA5 is In this Repository.
 - ### `index.html`
 - ### `api.php`
 - ### `...`
