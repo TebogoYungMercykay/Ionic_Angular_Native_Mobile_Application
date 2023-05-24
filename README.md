@@ -35,7 +35,7 @@
 ---
 ---
 ### Moile Native App using Ionic Angular
-- Details Coming Soon:
+- Details: Work In Progress - Will be on it from Saturday the 26th till Sunday the 27th.
 - The App is currently Under Constrction
 ---
 ### The `"The Complete Web Development Practice Space"` Repository Directory Looks Like This.
