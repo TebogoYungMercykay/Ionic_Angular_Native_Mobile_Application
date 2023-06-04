@@ -139,7 +139,7 @@
 ---
 - # Name of imaginary Company: Jerman Otto:
 
-    - <img alt="Company Logo" src="https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space/blob/21140477f56b90920aa40174cea95011e6e913a7/COS216/PA1/img/logo.jpg" width="300" height="300">
+    - <img alt="Company Logo" src="https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space/blob/a6148c640017c5c388cccec49fda6cd4d138f7aa/JermanOttoCarSite/PA1/img/logo.jpg" width="300" height="300">
 
 ---
 
@@ -170,7 +170,7 @@
         - 2 Optional.
       - Comapre Cars Page.
       - Under Construction.
-    - Example Code HTML & CSS (Check jerman-otto-styles.css and Brands.html, Path: COS216/PA2)
+    - Example Code HTML & CSS (Check jerman-otto-styles.css and Brands.html, Path: JermanOttoCarSite/PA2)
       ```html
       <!DOCTYPE html>
       <html lang="en">
@@ -208,7 +208,7 @@
           </header>
           <section id="logo" class="mt-5">
               <!-- Logo placeholder -->
-              <img src="COS216/PA1/img/logo.jpg" alt="Logo">
+              <img src="JermanOttoCarSite/PA1/img/logo.jpg" alt="Logo">
           </section>
           <div class="Example-CSS-For-Listing-Cars">
               <!-- Sample text for brands listing: Mock Data -->
@@ -259,7 +259,7 @@
     - COMPARE PAGE
       - Car Selection works.
       - Compare Stats Show.
-  - API Request Example Code (Check carListing.js, path: Path: COS216/PA2/js)
+  - API Request Example Code (Check carListing.js, path: Path: JermanOttoCarSite/PA2/js)
     ```javascript
     function carListingAlgorithm(jsonObject1) {
         var jsonObject;
