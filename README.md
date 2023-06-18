@@ -1,3 +1,5 @@
+The latest mobile app will be uploaded in July during recess after some adjustments and fixes.
+---
 # Polishing Full Stack Development Skills: Preparing for an Impressive Portfolio Website!
 ---
 - The `ultimate objective` is to construct exceptional web applications and mobile apps. By the end of this journey, I aspire to possess the ability to develop both `client` and `server software` proficiently. Moreover, I aim to master `HTML`, `CSS`, `Javascript`, `jQuery`, `AJAX`, `MySQL`, `PHP` and Many More, Including `PHP APIs`, and to be able to program a browser using popular frameworks such as JavaScript, jQuery, Angular and many more, as well as a server using renowned technologies such as PHP, ASP, Python, or Node.
