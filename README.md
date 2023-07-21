@@ -1,3 +1,5 @@
+The latest mobile app will be uploaded in July during recess after some adjustments and fixes.
+---
 # Polishing Full Stack Development Skills: Preparing for an Impressive Portfolio Website!
 ---
 - The `ultimate objective` is to construct exceptional web applications and mobile apps. By the end of this journey, I aspire to possess the ability to develop both `client` and `server software` proficiently. Moreover, I aim to master `HTML`, `CSS`, `Javascript`, `jQuery`, `AJAX`, `MySQL`, `PHP` and Many More, Including `PHP APIs`, and to be able to program a browser using popular frameworks such as JavaScript, jQuery, Angular and many more, as well as a server using renowned technologies such as PHP, ASP, Python, or Node.
@@ -21,6 +23,10 @@
     - JSON
     - JQuery
     - Bootstrap
+    - Ionic
+    - Angular
+    - Capacitor
+    - Native Mobile Applications
     - TypeScript
     - Logs
     - Network protocols and sockets.
@@ -31,16 +37,16 @@
 ---
 ## NOTE WELL!!!!
 ---
-##### The `Complete` Car Site (Languages Used: HTML & CSS, JS, PHP, SQL and many more) is in a `separate` repository ([Visit The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)), So This is the final implementation of the Car Site, Whic will be a migration of the Car Site to a `Moile Native App using Ionic Angular`, You may view the worlflow in the following sections which includes all the languages and details about the Car Site in the Separate repository.. (`Thanks For The Visit!`).
+##### The `Complete` Car Site (Languages Used: HTML & CSS, JS, PHP, SQL and many more) is in a `separate` repository ([Visit The Complete Web Development Practice Space](https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space.git)), So This is the final implementation of the Car Site, Which will be a migration of the Car Site to a `Native Mobile App using Ionic Angular`, You may view the worlflow in the following sections which includes all the languages and details about the Car Site in the Separate repository.. (`Thanks For The Visit!`).
 ---
 ---
-### Moile Native App using Ionic Angular
-- Details Coming Soon:
+### Mobile Native App using Ionic Angular
+- Details: Had to Pause a Bit due to School Work - It wil be uploaded as soon as possible.
 - The App is currently Under Constrction
 ---
 ### The `"The Complete Web Development Practice Space"` Repository Directory Looks Like This.
 - ### `README.md`
-- ### `COS216`
+- ### `JermanOttoCarSite`
   - #### `PA1`:
     - css
     - HTML
@@ -135,7 +141,7 @@
 ---
 - # Name of imaginary Company: Jerman Otto:
 
-    - <img alt="Company Logo" src="https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space/blob/21140477f56b90920aa40174cea95011e6e913a7/COS216/PA1/img/logo.jpg" width="300" height="300">
+    - <img alt="Company Logo" src="https://github.com/TebogoYungMercykay/The-Complete-Web-Development-Practice-Space/blob/a6148c640017c5c388cccec49fda6cd4d138f7aa/JermanOttoCarSite/PA1/img/logo.jpg" width="300" height="300">
 
 ---
 
@@ -166,7 +172,7 @@
         - 2 Optional.
       - Comapre Cars Page.
       - Under Construction.
-    - Example Code HTML & CSS (Check jerman-otto-styles.css and Brands.html, Path: COS216/PA2)
+    - Example Code HTML & CSS (Check jerman-otto-styles.css and Brands.html, Path: JermanOttoCarSite/PA2)
       ```html
       <!DOCTYPE html>
       <html lang="en">
@@ -204,7 +210,7 @@
           </header>
           <section id="logo" class="mt-5">
               <!-- Logo placeholder -->
-              <img src="COS216/PA1/img/logo.jpg" alt="Logo">
+              <img src="JermanOttoCarSite/PA1/img/logo.jpg" alt="Logo">
           </section>
           <div class="Example-CSS-For-Listing-Cars">
               <!-- Sample text for brands listing: Mock Data -->
@@ -255,7 +261,7 @@
     - COMPARE PAGE
       - Car Selection works.
       - Compare Stats Show.
-  - API Request Example Code (Check carListing.js, path: Path: COS216/PA2/js)
+  - API Request Example Code (Check carListing.js, path: Path: JermanOttoCarSite/PA2/js)
     ```javascript
     function carListingAlgorithm(jsonObject1) {
         var jsonObject;
