@@ -41,7 +41,7 @@ The latest mobile app will be uploaded in July during recess after some adjustme
 ---
 ---
 ### Mobile Native App using Ionic Angular
-- Details: Work In Progress - Will be on it from Saturday the 26th till Sunday the 27th.
+- Details: Had to Pause a Bit due to School Work - It wil be uploaded as soon as possible.
 - The App is currently Under Constrction
 ---
 ### The `"The Complete Web Development Practice Space"` Repository Directory Looks Like This.
